@@ -4,3 +4,4 @@ __pycache__
 instance
 *.__pyc
 .DS_Store
+try.py
