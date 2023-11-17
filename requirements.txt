@@ -1,4 +1,4 @@
-flask
+flask<3.0
 flask-smorest
 python-dotenv
 sqlalchemy
@@ -7,4 +7,5 @@ flask-jwt-extended
 passlib
 Flask-Migrate
 gunicorn
-psycopg2
+psycopg2-binary
+requests
